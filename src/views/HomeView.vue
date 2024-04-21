@@ -17,9 +17,9 @@ watch(searchInput, () => {
   <div class="container max-w-[1000px]">
     <header class="my-[30px] flex items-center">
       <h1 class="font-bold me-[30px] text-2xl ">Quizeez</h1>
-      <Input v-model.trim="searchInput" type="text" placeholder="Search..." class="w-1/5"></Input>
+      <Input v-model.trim="searchInput" type="text" placeholder="Rechercher..." class="sm:w-1/5"></Input>
     </header>
-    <div class="grid grid-cols-3 gap-4">
+    <div class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-1   gap-4">
       <QuestionCard v-for="quiz in quizes" :key="quiz.id" :quiz="quiz"/>
     </div>
   </div>
