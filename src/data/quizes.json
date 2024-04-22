@@ -93,12 +93,162 @@
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "id": 4,
+                "text": "Quelle est la valeur de pi?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3,14159",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2,71828",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1,41421",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1,61803",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Quelle est la racine carrée de 16?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "2",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "5",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Quelle est l'équation d'une droite?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "y = mx + b",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "y = x^2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "y = sin(x)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "y = e^x",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Quelle est l'aire d'un cercle?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "2πr",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "πr^2",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "πr",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2πr^2",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Quelle est la valeur de e?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "2,71828",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "3,14159",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1,41421",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1,61803",
+                        "isCorrect": false
+                    }
+                ]
             }
         ]
     },
     {
         "id": 2,
-        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "img": "https://i.pinimg.com/originals/2c/ae/91/2cae911c5cc6ea98ac73de4225008093.jpg",
         "name": "Biologie",
         "questions": [
             {
@@ -187,6 +337,96 @@
                         "id": 4,
                         "label": "D",
                         "text": "formes en 2D; objets en 3D",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Quelle est la structure de l'ADN?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Double hélice",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Simple hélice",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Triple hélice",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Quadruple hélice",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Quelle est la fonction de l'ARN messager?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Il transporte les instructions génétiques du noyau vers le cytoplasme",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Il aide à la réplication de l'ADN",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Il est responsable de la photosynthèse",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Il est responsable de la respiration cellulaire",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Qu'est-ce que la mitose?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "C'est le processus de division cellulaire",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "C'est le processus de création de l'ADN",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C'est le processus de création de l'ARN",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C'est le processus de création de protéines",
                         "isCorrect": false
                     }
                 ]
